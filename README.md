@@ -10,7 +10,13 @@
 
 [PWA Text Editor deployed to Render](https://pwa-text-editor-6qxz.onrender.com)
 
-  ## Screenshot of Deployed Application
+  ## Screenshots of Deployed Application
+
+  ![Full app with indexedDB](./client/src/images/indexedDB.png)
+
+  ![Screenshot of app as PWA](./client/src/images/pwa.png)
+
+  ![Full Application with screen workers](./client/src/images/service-workers.png)
 
   ## Table of Contents
   - [Installation](#installation)
