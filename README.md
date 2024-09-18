@@ -8,7 +8,7 @@
 
   ## URL of Deployed Application
 
-
+[PWA Text Editor deployed to Render](https://pwa-text-editor-6qxz.onrender.com)
 
   ## Screenshot of Deployed Application
 
